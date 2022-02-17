@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://cfergeau.github.io'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'CodeReady Containers and more'
 theme = "geekblog"
 
 pluralizeListTitles = false
