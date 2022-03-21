@@ -3,7 +3,6 @@ title: "My First Post"
 date: 2022-02-06T16:20:50+01:00
 authors:
   - cfergeau
-draft: true
 ---
 
 This is a code test
